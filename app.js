@@ -1,1 +1,1 @@
-consiloe.log('Hello);
+consiloe.log('Hello');
